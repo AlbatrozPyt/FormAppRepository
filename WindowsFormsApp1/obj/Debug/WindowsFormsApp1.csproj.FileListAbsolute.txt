@@ -1,0 +1,17 @@
+C:\Users\24004134870\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\24004134870\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\24004134870\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\24004134870\Desktop\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\24004134870\Desktop\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\24004134870\Desktop\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\24004134870\Desktop\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\24004134870\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\24004134870\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\24004134870\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\24004134870\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\24004134870\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\24004134870\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\24004134870\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\24004134870\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\24004134870\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
